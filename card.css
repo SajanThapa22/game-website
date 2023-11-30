@@ -147,7 +147,7 @@ body{
 
 .card:hover 
     .card-image{
-        transform: scale(0.6) translateY(-11em);
+        transform: scale(0.6) translateY(-10em);
         border-radius: 15px;
         border: 3px solid red;
     }
